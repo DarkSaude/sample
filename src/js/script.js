@@ -8,11 +8,6 @@
 
 			 import './libs/quiz/_quiz';
 
-/* <------ Подключение font awesome ------> */
-
-import '@fortawesome/fontawesome-free/js/fontawesome';
-import '@fortawesome/fontawesome-free/css/all.min.css';
-
 /* <------ Подключение scss ------> */
 
 import '../scss/style.scss';
